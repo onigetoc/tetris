@@ -6,6 +6,8 @@ Tetris Game Project
 
 A classic Tetris game implementation using HTML, JavaScript, and the Phaser 3 game framework.
 
+![Tetris Game Screenshot](https://raw.githubusercontent.com/onigetoc/tetris/main/TETRIS.png "Tetris Screenshot")
+
 [Play the game here](https://raw.githack.com/onigetoc/tetris/main/tetris.html)
 
 ## About the Project
