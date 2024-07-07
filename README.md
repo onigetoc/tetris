@@ -24,7 +24,21 @@ While playable and enjoyable, the game currently has only one difficulty level a
 
 ## Development Challenges
 
-One of the main challenges encountered during development was the timing of the sound effect when Tetriminos touch the bottom of the play area. Due to the one-second cycle of the piece descent, there's a slight delay in playing the sound when no keyboard input is made. This issue remains unresolved without significant code refactoring.
+The development of this Tetris game presented several interesting challenges:
+
+1. AI-Assisted Development: The entire project was completed using only AI assistance (Claude) over 50-60 prompts. While this approach was innovative, it required careful consideration of how to phrase requests and questions to get the desired results.
+
+2. Token Limitations: The project was developed using the free version of Claude, which comes with token limitations. This often resulted in running out of tokens mid-development, necessitating waiting periods before being able to continue. This added an extra layer of complexity to the development process and required efficient use of available tokens.
+
+3. Minimal Human Intervention: A self-imposed challenge was to avoid making direct code changes. Instead, all modifications and improvements were implemented through interactions with Claude. This approach tested the limits of AI-assisted coding and problem-solving.
+
+4. Sound Timing Issues: One of the main technical challenges encountered during development was the timing of the sound effect when Tetriminos touch the bottom of the play area. Due to the one-second cycle of the piece descent, there's a slight delay in playing the sound when no keyboard input is made. This issue remains unresolved without significant code refactoring.
+
+5. Leveraging Programming Knowledge: While the code was generated through AI, having a background in programming proved crucial. It helped in formulating the right questions, understanding the generated code, and guiding the development process effectively.
+
+6. Balancing AI Capabilities and Project Goals: Finding the right balance between what could be achieved through AI assistance and the desired features of the game was an ongoing challenge throughout the development process, especially given the token limitations.
+
+These challenges not only shaped the final product but also provided valuable insights into the potential and limitations of AI-assisted game development, particularly when working within the constraints of a free AI service.
 
 ## Future Improvements
 
