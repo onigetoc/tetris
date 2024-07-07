@@ -19,7 +19,7 @@ This Tetris clone was developed as an experimental project to explore AI-assiste
 The game features:
 - Classic Tetris gameplay
 - Background music and sound effects
-- Score tracking
+- Score tracking. The scoring system is based from the Tetris classic game.
 - Play button, Game over and replay functionality
 
 While playable and enjoyable, the game currently has only one difficulty level and some timing issues remain unresolved.
