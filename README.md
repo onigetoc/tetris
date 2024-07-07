@@ -12,7 +12,7 @@ A classic Tetris game implementation using HTML, JavaScript, and the Phaser 3 ga
 
 ## About the Project
 
-This Tetris clone was developed as an experimental project to explore AI-assisted game development. Created with the help of Claude Sonnet (an AI language model) over approximately 60 prompts and 4-5 hours of work, it offers a functional yet imperfect implementation of the classic game.
+This Tetris clone was developed as an experimental project to explore AI-assisted game development. Created with the help of Claude Sonnet (an AI language model) over approximately 60 prompts and 4-5 hours of work, it offers a functional yet imperfect implementation of the classic game. I asked Claude Sonnet to create a javascript, html game, Claude choose himself to use the framework Phaser js to build the Tetris game. Some sounds effects was made with Elevenlabs (Free).
 
 The game features:
 - Classic Tetris gameplay
