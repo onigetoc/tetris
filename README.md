@@ -4,39 +4,43 @@ Tetris game made with AI Claude 3.5 sonnet
 Tetris Game Project
 ===================
 
-Overview
---------
+# Tetris Game Project
 
-This project is a Tetris game implementation using HTML, JavaScript, and the Phaser 3 game framework. It was developed with the assistance of Claude Sonnet, an AI language model, over approximately 60 prompts and 4-5 hours of work.
+A classic Tetris game implementation using HTML, JavaScript, and the Phaser 3 game framework.
 
-Features
---------
+[Play the game here](https://raw.githack.com/onigetoc/tetris/main/tetris.html)
 
-*   Classic Tetris gameplay
-*   Background music and sound effects
-*   Score tracking
-*   Game over and replay functionality
-*   Single difficulty level
+## About the Project
 
-Development Process
--------------------
+This Tetris clone was developed as an experimental project to explore AI-assisted game development. Created with the help of Claude Sonnet (an AI language model) over approximately 60 prompts and 4-5 hours of work, it offers a functional yet imperfect implementation of the classic game.
 
-The development of this game was an experimental project, aimed at exploring the capabilities of AI-assisted game development. It proved to be more complex than initially anticipated, resulting in a functional but not perfect implementation.
+The game features:
+- Classic Tetris gameplay
+- Background music and sound effects
+- Score tracking
+- Game over and replay functionality
 
-### Challenges
+While playable and enjoyable, the game currently has only one difficulty level and some timing issues remain unresolved.
 
-One of the main challenges encountered was the timing of the sound effect when Tetriminos touch the bottom of the play area. Due to the one-second cycle of the piece descent, there's a slight delay in playing the sound when no keyboard input is made. This issue remains unresolved without significant code refactoring, which would have required a substantial number of additional tokens in the AI conversation.
+## Development Challenges
 
-Project Satisfaction
---------------------
+One of the main challenges encountered during development was the timing of the sound effect when Tetriminos touch the bottom of the play area. Due to the one-second cycle of the piece descent, there's a slight delay in playing the sound when no keyboard input is made. This issue remains unresolved without significant code refactoring.
 
-While the overall project is satisfactory and playable, it's important to note that it's far from perfect. There's only one difficulty level, and some timing issues persist. However, as an experimental project, it provided valuable insights into game development processes and the potential of AI assistance in coding tasks.
+## Future Improvements
 
-Conclusion
-----------
+Potential areas for future enhancement include:
+- Fixing the sound timing issue
+- Adding multiple difficulty levels
+- Implementing a high score system
+- Enhancing visual effects and animations
 
-This Tetris project was an enjoyable and educational experience. It served its purpose as a pure experimentation in AI-assisted game development. While not without its flaws, it demonstrates the potential of using AI models like Claude Sonnet in creative coding projects.
+## Acknowledgements
 
+Special thanks to Claude Sonnet for assistance in the development process, providing code snippets, and problem-solving throughout the project.
+
+---
+
+This project serves as an interesting example of AI-assisted game development. While not without its flaws, it demonstrates the potential of using AI models in creative coding projects. Feel free to explore the code, test the game, and contribute to its improvement!
 Future Improvements
 -------------------
 
@@ -44,8 +48,6 @@ Potential areas for future enhancement include:
 
 *   Fixing the sound timing issue
 *   Adding multiple difficulty levels
-*   Implementing a high score system
-*   Enhancing visual effects and animations
 
 Acknowledgements
 ----------------
