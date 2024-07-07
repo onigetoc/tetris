@@ -1,5 +1,5 @@
 # Tetris
-Tetris game made with AI Claude 3.5 Sonnet
+Tetris game using HTML, JavaScript with the help of AI Claude 3.5 Sonnet
 
 Tetris Game Project
 ===================
