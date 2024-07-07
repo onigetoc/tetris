@@ -1,10 +1,8 @@
-# tetris
-Tetris game made with AI Claude 3.5 sonnet
+# Tetris
+Tetris game made with AI Claude 3.5 Sonnet
 
 Tetris Game Project
 ===================
-
-# Tetris Game Project
 
 A classic Tetris game implementation using HTML, JavaScript, and the Phaser 3 game framework.
 
