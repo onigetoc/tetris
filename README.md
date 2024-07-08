@@ -67,4 +67,4 @@ Potential areas for future enhancement include:
 Acknowledgements
 ----------------
 
-Special thanks to Claude Sonnet for assistance in the development process, providing code snippets, and problem-solving throughout the project.
+Special thanks to Claude Sonnet for assistance in the development process, providing code snippets, and problem-solving throughout the project. And Elevenlabs for is free sounds tools.
