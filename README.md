@@ -36,7 +36,7 @@ The development of this Tetris game presented several interesting challenges:
 
 4. Sound Timing Issues: One of the main technical challenges encountered during development was the timing of the sound effect when Tetriminos touch the bottom of the play area. Due to the one-second cycle of the piece descent, there's a slight delay in playing the sound when no keyboard input is made. This issue remains unresolved without significant code refactoring.
 
-5. Leveraging Programming Knowledge: While the code was generated through AI, having a background in programming proved crucial. It helped in formulating the right questions, understanding the generated code, and guiding the development process effectively.
+5. Leveraging Programming Knowledge: While the code was generated through AI, having a background in programming proved usefull. It helped in formulating the right questions, understanding the generated code, and guiding the development process effectively.
 
 6. Balancing AI Capabilities and Project Goals: Finding the right balance between what could be achieved through AI assistance and the desired features of the game was an ongoing challenge throughout the development process, especially given the token limitations.
 
