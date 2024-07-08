@@ -58,7 +58,6 @@ Special thanks to Claude Sonnet for assistance in the development process, provi
 
 This project serves as an interesting example of AI-assisted game development. While not without its flaws, it demonstrates the potential of using AI models in creative coding projects. Feel free to explore the code, test the game, and contribute to its improvement!
 Future Improvements
--------------------
 
 Potential areas for future enhancement include:
 
