@@ -6,7 +6,7 @@ Tetris Game Project
 
 A classic Tetris game using HTML, JavaScript, and Phaser 3, created 100% with AI assistance (Claude 3.5 Sonnet) without manual coding.
 
-This project showcases a fully functional Tetris game developed entirely through interactions with Claude 3.5 Sonnet, an advanced AI language model. No manual programming was involved; all code, including HTML, JavaScript, and the implementation of the Phaser 3 game framework, was generated through AI prompts and responses.
+This project showcases a fully functional Tetris game developed entirely through interactions with Claude 3.5 Sonnet, an advanced AI language model. No manual programming was involved; all code, including HTML, JavaScript, and the implementation of the Phaser 3 game framework, was generated through AI prompts and responses. To make it work on your computer, Open in VS Code and use the live plugin to see the game in your browser. It would open something like: http://127.0.0.1:5500/tetris.html
 
 ![Tetris Game Screenshot](https://github.com/onigetoc/tetris/blob/main/tetris-animated.gif "Tetris Animated Gif")
 
